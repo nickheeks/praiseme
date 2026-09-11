@@ -1,0 +1,16 @@
+Package: praiseme
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nicholas", "Heeks", , "nicholas.heeks@students.mq.edu.au", role = c("aut", "cre"))
+Description: We all deserve a little encouragement sometimes to keep us 
+    going. This package aims to deliver a little praise whenever you need it.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
