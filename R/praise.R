@@ -18,3 +18,4 @@ praise <- function(name, punctuation = "!") {
 }
 
 praise("Thomas")
+
